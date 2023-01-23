@@ -1,0 +1,11 @@
+@media screen and (max-width: 1050px) {
+    .socials {
+        display: none;
+    }
+}
+ 
+@media screen and (max-width: 490px) {
+    .socials {
+        display: flex;
+    }
+}
